@@ -7,6 +7,7 @@ This project is developed as part of **Future Interns – Machine Learning Task 
 The project focuses on **Sales and Demand Forecasting for Businesses** using historical sales data. The aim is to understand past sales patterns, identify important trends, perform data analysis and visualization, and use Machine Learning to forecast future sales and demand.
 
 The project also includes a **Power BI dashboard** to present the analyzed data and business insights in an interactive and easy-to-understand format.
+The performance of the forecasting model was evaluated using suitable evaluation metrics. The evaluation results are shown below.
 
 ---
 
@@ -111,6 +112,11 @@ The evaluation helps to understand how closely the predicted values match the ac
 
 The project includes the model evaluation results and prediction analysis in the Jupyter Notebook.
 
+The performance of the forecasting model was evaluated using suitable evaluation metrics. The evaluation results are shown below.
+
+![Model Evaluation](model_evaluation.png)
+
+
 ---
 
 ## 🔮 Forecast Output
@@ -118,6 +124,10 @@ The project includes the model evaluation results and prediction analysis in the
 After training and evaluating the model, a separate output file was generated containing the forecasted results.
 
 The forecast output can be used to examine the predicted sales/demand values for the required period.
+
+The trained model was used to generate forecasted sales/demand values. The forecast output is shown below.
+
+![Forecast Output](forecast_output.png)
 
 ---
 
