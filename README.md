@@ -127,7 +127,7 @@ The forecast output can be used to examine the predicted sales/demand values for
 
 The trained model was used to generate forecasted sales/demand values. The forecast output is shown below.
 
-![Forecast Output](forecast_output.png)
+![Forecast Output](2018_forecast_output.png)
 
 ---
 
