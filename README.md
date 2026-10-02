@@ -149,8 +149,6 @@ The dashboard helps in understanding:
 | `PowerBI_Dashboard.png` | Power BI dashboard screenshot |
 | `README.md` | Project documentation |
 
-> **Note:** Replace `sales_data.csv` and `forecast_output.csv` with the exact filenames used in this repository if they are different.
-
 ---
 
 ## 🛠️ Technologies Used
