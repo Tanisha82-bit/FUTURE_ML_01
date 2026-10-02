@@ -144,7 +144,7 @@ The dashboard helps in understanding:
 | File | Description |
 |---|---|
 | `Sales_Demand_Forecasting.ipynb` | Main Jupyter Notebook containing data analysis, visualizations, Machine Learning and forecasting |
-| `sales_data.csv` | Historical sales dataset used for the project |
+| `Sample-Superstore.csv` | Historical sales dataset used for the project |
 | `forecast_output.csv` | Output file containing forecasted results |
 | `PowerBI_Dashboard.png` | Power BI dashboard screenshot |
 | `README.md` | Project documentation |
